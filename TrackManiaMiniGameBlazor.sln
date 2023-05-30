@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackManiaMiniGameBlazor", "TrackManiaMiniGameBlazor.csproj", "{3A2F25E0-0ACD-4FF9-855B-CE038CAB7545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2F25E0-0ACD-4FF9-855B-CE038CAB7545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2F25E0-0ACD-4FF9-855B-CE038CAB7545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2F25E0-0ACD-4FF9-855B-CE038CAB7545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2F25E0-0ACD-4FF9-855B-CE038CAB7545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B5BD67D-0C7B-4D78-9DFD-64F8E6042944}
+	EndGlobalSection
+EndGlobal
