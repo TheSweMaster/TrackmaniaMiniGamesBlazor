@@ -1,5 +1,5 @@
 # TrackmaniaMiniGamesBlazor
- Trackmania Mini Games made with ASP.NET Blazor
+ Trackmania Mini Games website made with ASP.NET Blazor
  
  
 ### Minigames
